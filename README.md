@@ -22,7 +22,9 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 - Identify trends that can inform our lending strategies
 
 ## Data Cleaning
-...
+- Removed duplicates
+- Transformed the dates into the correct format
+- Replaced missing values
 
 ## Analysis
 ...
