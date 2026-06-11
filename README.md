@@ -12,16 +12,14 @@ This dashboard aims to provide insights into key loan-related metrics and their 
 In our Bank Loan Report project, we aim to visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of our lending operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. 
 <img width="768" height="409" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/f791bbb9-4b46-4b86-ab45-9807314f1120" />
 
-
-
 ## Tools Used
 - Excel
-- Power Query
 - Pivot Tables
 - Pivot Charts
 
 ## Objectives
-...
+- Track our loan portfolio's health
+- Identify trends that can inform our lending strategies
 
 ## Data Cleaning
 ...
