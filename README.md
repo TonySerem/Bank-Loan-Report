@@ -1,2 +1,2 @@
 # Bank-Loan-Report
-Analysis of bank's lending activities an performance using Microsoft Excel
+Analysis of bank's lending activities and performance using Microsoft Excel
