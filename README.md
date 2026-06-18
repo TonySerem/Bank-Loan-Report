@@ -51,4 +51,12 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 - Loan Applications for Credit Purpose has the highest applications of 18.2k while loan applications for renewable purpose has the         lowest applications of 0.1k
 - The Total Loan Applications by Home Ownership was; Rent-18.4k, Mortgage-17.1k, Own-2.8k
 
+## Conclusion
 
+The analysis revealed that the bank maintained a strong loan portfolio, with over 86% of issued loans classified as good loans. Loan demand increased steadily throughout the year, with December recording the highest number of applications. California accounted for the largest share of applications, while borrowers with over ten years of employment history represented the largest customer segment. These insights can support lending strategy, risk assessment, and customer targeting initiatives.
+
+ ## Recommendations
+- Continue monitoring the proportion of bad loans to maintain portfolio quality.
+- Investigate the factors driving strong loan demand in California and replicate successful strategies in other states.
+- Develop targeted products for borrowers with long employment histories, as they represent a significant share of applications.
+- Review low-performing loan purposes to determine whether marketing efforts should be adjusted.
