@@ -30,11 +30,12 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 - Key performance indicators (KPI's); Total Loan Applications, Total Funded Amount, Total Amount Recieved, Average Interest Rate,
   Average dti
 - Good Loan vs Bad Loan
-- Total Loan Applications by Month
-- Total Loan Applications by State
-- Total Loan Applications by Term
-- Total Loan Applications by Purpose
-- Total Loan Applications by Home
+- Loan Analysis by Month(Line Chart)
+- Loan Analysis by State(Filled Map)
+- Loan Term Analysis(Donut Chart)
+- Employee Length Analysis(Bar Chart)
+- Loan Purpose Breakdown(Bar Chart)
+- Loan Analysis by Home Ownership(Treemap)
 
 ## Filters
 - Grade
