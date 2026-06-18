@@ -42,7 +42,13 @@ In our Bank Loan Report project, we aim to visually represent critical loan-rela
 - Purpose
   
 ## Key Findings
-...
+- KPI's: Total Loan Applications-38.6k, Total Funded Amount-$435.8M, Average Interest Rate-12.05%, Average dti-13.33%
+- Good Loan Issued(This category includes loans with a loan status of 'Fully Paid' and 'Current) is 86.17% of the Total Loans Issued       while Bad Loans Issued(This category specifically includes loans with a loan status of 'Charged Off) is 14% of the Total Loans Issued.
+- The Total loan applications by month was rising gradually from January to December with January and February having the lowest           applications of 2.3K, and December having the highest applications of 4.3K
+- The state of CA has the highest Loan Applications of 6.9k
+- 36 months Term has a Total Loan Applications of 10.3k and 60 months Term has a Total Loan Applications 28.2k
+- Employees who have stayed for 10+ years have the highest Loan Applications of 8.9k
+- Loan Applications for Credit Purpose has the highest applications of 18.2k while loan applications for renewable purpose has the         lowest applications of 0.1k
+- The Total Loan Applications by Home Ownership was; Rent-18.4k, Mortgage-17.1k, Own-2.8k
 
-## Additional Screenshots
-[Other dashboard or analysis screenshots]
+
